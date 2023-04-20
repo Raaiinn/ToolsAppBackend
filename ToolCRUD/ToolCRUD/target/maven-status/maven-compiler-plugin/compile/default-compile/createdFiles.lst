@@ -1,0 +1,6 @@
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\CrudApplication.class
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\domain\Tool.class
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\domain\Trade.class
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\controller\ToolController.class
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\service\ToolService.class
+edu\javeriana\ProyectoDesarrolloWeb\CRUD\repository\ToolRepository.class
